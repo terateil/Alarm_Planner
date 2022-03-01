@@ -1,3 +1,3 @@
 # Alarm_Planner
-일정 관리가 가능한 컴퓨터용 알람 프로그램.
-Written in Java, July, 2017.
+일정 관리가 가능한 컴퓨터용 알람 프로그램.  
+Written in Java, July, 2020.
