@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Alarm_Planner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Alarm_Planner_jar</output-path>
+    <root id="archive" name="Alarm_Planner.jar">
+      <element id="module-output" name="Alarm_Planner" />
+    </root>
+  </artifact>
+</component>
