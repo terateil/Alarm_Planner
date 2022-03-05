@@ -1,6 +1,7 @@
 # Alarm_Planner
 일정 관리가 가능한 컴퓨터용 알람 프로그램.  
-프로젝트 진행: July, 2020
+Language: Java  
+Project in July, 2020.
 
 ## 시작하기
 Java 코드를 확인하려면 `src/sample`의 파일들을 참고하세요.
